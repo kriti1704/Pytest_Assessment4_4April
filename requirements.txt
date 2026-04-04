@@ -1,0 +1,6 @@
+pytest
+selenium
+openpyxl
+webdriver_manager
+
+# pip install -r requirements.txt
