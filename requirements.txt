@@ -2,5 +2,6 @@ pytest
 selenium
 openpyxl
 webdriver_manager
+PyYAML
 
 # pip install -r requirements.txt
